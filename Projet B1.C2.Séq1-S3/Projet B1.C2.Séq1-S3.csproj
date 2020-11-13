@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Projet_B1.C2.Séq1_S3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\adamb\Desktop\Cours\Bloc 1\Compétence 2\Class1.cs" Link="Class1.cs" />
+  </ItemGroup>
+
+</Project>
